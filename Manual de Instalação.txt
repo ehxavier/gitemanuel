@@ -1,3 +1,9 @@
-Pre-requisitos
-Configurações de vairáveis de sistema
-Ativação do produto
+1. Pre-requisitos
+- Windows 10
+- Internet Explorer 11
+- Java
+
+2. Configurações de variáveis de sistema
+
+3. Ativação do produto
+
